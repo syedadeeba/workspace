@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+		<list key="archetypeVersion">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+		<list key="archetypeGroupId">
+			<item value="niit.com"/>
+		</list>
+		<list key="archetypeArtifactId">
+			<item value="mvcdemo"/>
+		</list>
+		<list key="repositoryUrl">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\Syed Adeeba\workspace"/>
+			<item value="C:\Users\Syed Adeeba\workspace\Sample"/>
+			<item value="C:\Users\Syed Adeeba\workspace\Practice"/>
+			<item value="C:\Users\Syed Adeeba\workspace\Practice\WebContent\BoostrapTable.html"/>
+			<item value="C:\Users\Syed Adeeba\workspace\Practice\src"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.niit.mvc"/>
+			<item value="com.niit.contollers"/>
+			<item value="com.niit.mvcdemo1"/>
+			<item value="com.niit.controllers"/>
+			<item value="com.niit.mvcdem"/>
+			<item value="com.niit.mvcdemo"/>
+			<item value="com.niit.Mvcdemo"/>
+			<item value="com.niit.welcome"/>
+			<item value="com.niit.SampleTemperatureConversion"/>
+		</list>
+		<list key="groupId">
+			<item value="com.niit"/>
+		</list>
+		<list key="artifactId">
+			<item value="mvc"/>
+			<item value="mvcdemo"/>
+			<item value="mvcdemo1"/>
+			<item value="MVCDEMO1"/>
+			<item value="mvcdem"/>
+			<item value="mvcde"/>
+			<item value="Mvcdemo"/>
+			<item value="welcome"/>
+			<item value="SampleTemperatureConversion"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>
